@@ -1,0 +1,13 @@
+.green-box{
+    background-color: green;
+    width: 900x;
+    height: 600px;
+}
+.green-box div {
+    background-color: white;
+    width: 450px;
+    height: 100%;
+   position: absolute;
+   left:450px;
+
+}
